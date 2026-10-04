@@ -57,7 +57,6 @@ Flex sensor values vary between sensors and users, so each sensor's range is set
 ## 📄 Report
 Full project report: [docs/Graduation_Project_Report.pdf](docs/Graduation_Project_Report.pdf)
 
-## 👤 Author
-[Saba Amaireh]
+## 👤 Author : Saba Amaireh
 Computer and Communication Engineering graduate
 [LinkedIn](www.linkedin.com/in/sabaamaireh)
