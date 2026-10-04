@@ -59,4 +59,4 @@ Full project report: [docs/Graduation_Project_Report.pdf](docs/Graduation_Projec
 
 ## 👤 Author : Saba Amaireh
 Computer and Communication Engineering graduate
-[LinkedIn](www.linkedin.com/in/sabaamaireh)
+[LinkedIn](https://www.linkedin.com/in/sabaamaireh/)
