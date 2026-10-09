@@ -31,23 +31,7 @@ Most people don't understand sign language, which creates a communication barrie
 | Rechargeable battery / power bank | Power |
 | Fixed resistors | Voltage dividers for the flex sensors |
 
-## 🔌 Wiring
-Add your wiring diagram or circuit photo here: `images/circuit.jpg`
 
-## 💻 Software
-- Arduino IDE
-- Library: `Adafruit MPU6050` (and `Adafruit Unified Sensor`)
-- Library: `DFRobotDFPlayerMini`
-
-## 🚀 Setup
-1. Wire the components as shown in the diagram.
-2. Copy the audio files to the microSD card (FAT32) with names `0001.mp3`, `0002.mp3`, ...
-3. Open `code/smart_glove.ino` in Arduino IDE.
-4. Select your ESP32 board and upload.
-5. Calibrate the flex sensor ranges (see below).
-
-## 🎚️ Calibration
-Flex sensor values vary between sensors and users, so each sensor's range is set individually from serial monitor readings. Gesture ranges are defined in the code.
 
 ## 🔮 Future Improvements
 - More gestures and full sentences
